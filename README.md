@@ -1,2 +1,2 @@
-# ead-me-images
+# Radme-images
 Images Store for other repositories
